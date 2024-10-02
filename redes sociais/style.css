@@ -3,4 +3,5 @@ body {
     color: thistle;
     font-family: cursive; 
     height: 100vh;
+    margin: 0;
 }

@@ -1,7 +1,38 @@
 body {
-    background-color: rgb(251, 230, 233);
+    background-color: rgb(236, 126, 143);
     color: thistle;
     font-family: cursive; 
     height: 100vh;
     margin: 0;
 }
+
+header {
+    background-color: lightskyblue;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2rem;
+    color:rgb(0, 0, 0);
+    font-weight: 700;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+}
+
+nav a {
+    text-decoration: none;
+    color: deeppink;
+    margin: 0rem 2rem 3rem 0rem;
+    font-size: 12rem;
+}
+
+header {
+    background-color: darkseagreen;
+    text-align: center;
+    padding: 1px;
+}
+
